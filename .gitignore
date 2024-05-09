@@ -1,4 +1,4 @@
-### AL ###
+L ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
@@ -18,5 +18,6 @@ rad.json
 *.g.xlf
 #License-file
 *.flf
-#Test results file
-TestResults.xml
+#Test resul
+text_ignore.txt
+
