@@ -1,0 +1,206 @@
+    1  pwd
+    2  cd/Users/Мария
+    3  clear
+    4  pwd
+    5  clear
+    6  pwd
+    7  pwd
+    8  pwd
+    9  pwd
+   10  cd/c/Users/Мария/Documents
+   11  CLEAR
+   12  pwd
+   13  cd/c/
+   14  сd/c/users
+   15  pwd
+   16  cd/c/
+   17  cd/d/
+   18  rm
+   19  clear
+   20  pwd
+   21  ls -
+   22  pwd
+   23  cd../
+   24  clear
+   25  pwd
+   26  Ls -L
+   27  whoami
+   28  LS -La
+   29  touch.text.txt
+   30  touch text.txt
+   31  ls - l
+   32  LS -L
+   33  mkdir arshi-sb
+   34  Ls -L
+   35  cd arshi-sb
+   36  pwd
+   37  LS -L
+   38  cp ../text.txt ./
+   39  LS -L
+   40  head text.txt
+   41  clear
+   42  clear
+   43  clear
+   44  ping google.com
+   45  date
+   46  df -h
+   47  systeminfo
+   48  mv text1.txt ../
+   49  ls -l
+   50  rm - text.txt
+   51  ls -l
+   52  rm - rf arshi-sb/
+   53  rm -rf arshi-sb
+   54  ls -l
+   55  pwd
+   56  ls -l
+   57  LS -L
+   58  rm -rf arshi-sb
+   59  clear
+   60  rm - rf arshi-sb/
+   61  ls -l
+   62  rm -rf arshi-sb
+   63  rm -rf arshi-sb/
+   64  rm -rf
+   65  ls -l
+   66  clear
+   67  pwd
+   68  rm -rf arshi-sb
+   69  clear
+   70  pwd
+   71  RM -RF arshi_sb
+   72  clear
+   73  rm -rf arshi-sb/
+   74  ls -s
+   75  c/cd/
+   76  pwd
+   77  ls -s
+   78  clear
+   79  pwd
+   80  mkdir vielina
+   81  cd vielina
+   82  ls -s
+   83  git config --global user.name vielinamarria8
+   84  git config --get.user.name
+   85  clear
+   86  ls -s
+   87  git config --user.name vielinamarria8
+   88  clear
+   89  git config --global user.name 'vielinamarria8'
+   90  git config --get user.name
+   91  git config --global user.email velicko158@gmail.com
+   92  git config --get user.email
+   93  git clone https://github.com/vielinamarria8/vielina_test.git
+   94  ls -s
+   95  cd vielina_test
+   96  ls -s
+   97  ls -la
+   98  git stats
+   99  git status
+  100  git log
+  101  git checkout -b test_branch
+  102  git branch
+  103  git status
+  104  touch new_file.txt
+  105  ls -s
+  106  git status
+  107  git add.
+  108  git status
+  109  git commit -m "added new files"
+  110   git status
+  111  git log
+  112  git checkout main
+  113  git push origin main
+  114  clear
+  115  rm -rf vielina
+  116  pwd
+  117  -c && rm ~/.bash_history
+  118  clear
+  119  pwd
+  120  ls -s
+  121  c ../
+  122  clear
+  123  pwd
+  124  clear
+  125  mkdir git-tr
+  126  cd git-tr
+  127  ls -s
+  128  [200~
+  129  clear
+  130  c && rm ~/.bash_history
+  131  ls -s
+  132  git config --global user.name vielinamarria8'
+  133  clear
+  134  clear
+  135  pwd
+  136  Мария@Velicko-PC MINGW64 ~/git-tr
+  137  $ git config --global user.name vielinamarria8'
+  138  >
+  139  >
+  140  clear
+  141  c && rm ~/.bash_history
+  142  pwd
+  143  mkdir.git-tr
+  144  cd git-tr
+  145  ls -s
+  146  git config --global user.name "vielinamarria8"
+  147  git config --get user.name
+  148  git config --get user. email velicko158@gmail.com
+  149  pwd
+  150  git config --global user. name vielinamarria8
+  151  cpwd
+  152  git config --global user.name "vielinamarria8"
+  153  git config --global user. email velicko158@gmail.com
+  154  git config --global user.email velicko158@gmail.com
+  155  git config --get user.email
+  156  git clone https://github.com/vielinamarria8/HW_10.git
+  157  cd https://github.com/vielinamarria8/HW_10.git
+  158  touch text_ignore. txt
+  159  ls -s
+  160  vim. gitignore
+  161  git status
+  162  git add.
+  163  git commit -m "changer gitignore"
+  164  cd HW_10
+  165  touch text_ignore. txt
+  166  ls -s
+  167  vim. gitignore
+  168  git. status
+  169  vim .gitignore
+  170  vim .gitignore
+  171  ls -s
+  172  git status
+  173  git add .
+  174  git add.
+  175  git commit -"changed gitignore"
+  176  git commit -m "chanched gitignore"
+  177  rm text_ignore
+  178  rm txt
+  179  touch text_ignore.txt
+  180  ls-s
+  181  ls -s
+  182  rm text_ignore.
+  183  git status
+  184  git add .
+  185  git commit -m "changed gitignore"
+  186  touch main_test.txt
+  187  git add .
+  188  git commit -m "maintest"
+  189  git checkout -b develop
+  190  touch develop_test.txt
+  191  git add .
+  192  git commit -m "checdev"
+  193  vim .Develop_test.txt
+  194  git status
+  195  git add .
+  196  git commit -m "QA"
+  197  rm .Develop_test.txt
+  198  rm . Develop_tets.txt
+  199  vim Develop_test.txt
+  200  git status
+  201  git add .
+  202  git commit -m "develop"
+  203  git checkout main
+  204  git merge develop
+  205  git log
+  206  history > command_list.csv
